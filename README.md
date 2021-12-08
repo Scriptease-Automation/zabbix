@@ -7,7 +7,7 @@
 To install Zabbix Automaticaly you need to run this comman on your Terminal
 
 ```
-bash ~/zabbix_install.sh -d <Your Domain> -v <public or private>
+bash ./zabbix_install.sh -d <Your Domain> -v <public or private>
 
 ```
 ### Options
