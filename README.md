@@ -12,6 +12,6 @@ bash ./zabbix_install.sh -d <Your Domain> -v <public or private>
 ```
 ### Options
 ```
--d <your domain> Set Domain for Gitlab 
+-d <your domain> Set Domain for Zabbix
 -v [ public/private] choose one of the options 
 ```
